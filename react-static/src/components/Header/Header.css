@@ -1,0 +1,30 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 90px;
+}
+
+
+.nav-left{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #00D8FF;
+    font-size: x-large;
+}
+
+.nav-right{
+    color: white;
+    padding: 10px;
+    font-size: 18px;
+}
+
+.react-logo{
+    padding: 10px;
+    width: 60px;
+}
+
+.header{
+    background-color: #21222A;
+}

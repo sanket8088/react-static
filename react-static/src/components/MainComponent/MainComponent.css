@@ -1,0 +1,20 @@
+.main-component{
+    background-color: #33373E;
+    height: 100vh;
+    color: white;
+}
+
+.component-header{
+    padding: 30px 20px;
+    font-size: 48px;
+
+}
+
+li{
+    color: aqua;
+    padding: 5px 10px;
+    font-size: 18px;
+}
+span{
+    color: white;
+}
